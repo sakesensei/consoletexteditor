@@ -1,0 +1,5 @@
+/home/pedro/Documents/CSharp/consoletexteditor/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pedro/Documents/CSharp/consoletexteditor/bin/Debug/consoletexteditor.pdb
+/home/pedro/Documents/CSharp/consoletexteditor/bin/Debug/consoletexteditor.exe
+/home/pedro/Documents/CSharp/consoletexteditor/obj/x86/Debug/consoletexteditor.exe
+/home/pedro/Documents/CSharp/consoletexteditor/obj/x86/Debug/consoletexteditor.pdb

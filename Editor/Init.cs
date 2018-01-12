@@ -4,8 +4,8 @@ namespace Editor
 {
 	public static class Init
 	{
-		public const int WIDTH = 100;
-		public const int HEIGHT = 32;
+		public const int WIDTH = 24;
+		public const int HEIGHT = 80;
 
 		public static void Display()
 		{

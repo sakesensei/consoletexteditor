@@ -3,23 +3,23 @@ using Editor;
 
 namespace consoletexteditor
 {
-    class MainClass
-    {
-        public static void Main(string[] args)
-        {
-			Init.Display();
+	class MainClass
+	{
+		public static void Main(string[] args)
+		{
+			char s = '☭';
+			int num = 0;
+
+			Clear.All(s);
+
+			Console.Clear();
 
 			Page _page = new Page(0);
 
-			for (int i = 1; i < Init.WIDTH-2; i++)
-			{
-				Console.SetCursorPosition(i, 1);
-				Console.Write('%');
-			}
+			//Init.Display();
+			//Console.WriteLine(_page.Line[0]);
+			_page.Line[num] = Console.ReadLine();
 
-			Console.WriteLine(_page.Line[0]);
-
-			Console.ReadLine();
-        }
-    }
+		}
+	}
 }

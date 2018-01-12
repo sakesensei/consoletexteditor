@@ -37,6 +37,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Editor\Page.cs" />
     <Compile Include="Editor\Init.cs" />
+    <Compile Include="Editor\Clear.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
